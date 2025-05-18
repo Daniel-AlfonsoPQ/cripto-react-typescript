@@ -8,7 +8,7 @@ Una aplicación web que permite buscar y visualizar información sobre diversas 
 
 ## 📊 Vista Previa
 
-![Vista Previa](./img-readme/preview.png)
+![Vista Previa](./img-readme/crypto-preview.png)
 
 ---
 
